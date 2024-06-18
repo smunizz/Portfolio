@@ -1,2 +1,2 @@
-<h1 align="center">Esse repositório contém alguns dos meus projetos</h1>
-<h3 align="center">Em breve adicionarei outros...</h3>
+<h1 align="center">Esse repositório vai conter alguns dos meus projetos</h1>
+<h2 align="center">Em breve adicionarei...</h2>
